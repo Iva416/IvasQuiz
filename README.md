@@ -9,7 +9,7 @@ Use this code to generate your own quiz! Click the start button and test your kn
 ### How to Use
 
 ```
-Click the start button and start the quiz!
+You can click the following link: https://iva416.github.io/IvasQuiz/ then Click the start button to start the quiz!
 ```
 
 The following image shows the web application's appearance and functionality:
